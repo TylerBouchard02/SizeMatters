@@ -9,4 +9,4 @@ This room requires the player to grow and shrink boxes to navigate above ground 
 <img src="https://github.com/TylerBouchard02/SizeMatters/blob/main/SizeMattersPic2.png" alt="Room1">
 
 This is another example of a room that the player has to navigate through:
-<img src="https://github.com/TylerBouchard02/SizeMatters/blob/main/SizeMattersPic2.png" alt="Room1">
+<img src="https://github.com/TylerBouchard02/SizeMatters/blob/main/SizeMattersPic3.png" alt="Room1">
