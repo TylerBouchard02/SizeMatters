@@ -1,5 +1,6 @@
 # SizeMatters
 A prototype puzzle game that enables interactive manipulation of object sizes.  The player has multiple rooms to navigate through changing the size of boxes.
+Please contact me for inquiries about the source code.
 
 This room gives the player hints on how to manipulate the boxes:
 <img src="https://github.com/TylerBouchard02/SizeMatters/blob/main/SizeMattersPic1.png" alt="Room1">
